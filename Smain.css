@@ -1,0 +1,300 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(214, 255, 255);
+}
+
+
+
+h1 {
+    text-decoration: none;
+    background-color: rgb(255, 5, 5);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 4.5vw;
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+}
+
+@media (max-width: 767px) {
+    h1 {
+        font-size: 6vw; 
+        padding: 10px; 
+    }
+}
+
+nav {
+    background-color: #007bff;
+    overflow: hidden;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    font-weight: bolder;
+    color: black;
+}
+
+h3 {
+    font-size: 4vw; 
+    color: rgb(3, 106, 135);
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+    padding: 10px; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    float: left; 
+    margin-right: 10px; 
+    clear: both; 
+    border: 10px;
+    margin: 10px;
+}
+
+
+.one {
+    background-color: rgb(241, 250, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    text-align: center;
+}
+
+.right {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 20px;
+    max-width: 100%; 
+}
+
+.new {
+    padding: 30px;
+    text-align: center;
+    font-size: 3vw; 
+    font-family: 'Ubuntu';
+    font-weight: bolder;
+}
+
+.booking {
+    
+    display: flex;
+    align-items: center;
+}
+.booking p {
+    flex: 1;
+    font-family:'Phudu';
+    font-size: 80px;
+    color: rgb(248, 37, 0);
+    border-radius: 30px;
+    border: 2px solid  rgb(248, 37, 0);
+    padding: 10px;
+    width: 0px;
+    height: 150px;
+}
+.booking img {
+    max-width: 30%;
+    margin-left: 20px;
+}
+
+.image-container {
+    display: flex;
+    gap: 50px;
+}
+
+.image-container img {
+    flex: 1;
+    max-width: 450px;
+    height: auto;
+}
+
+.doctor-section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.image-container img {
+    max-width: 99%;
+    height: auto;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.booking-link {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px; 
+    font-size: 22px; 
+    font-family: 'Roboto Mono';
+    font-weight: bolder;
+    text-decoration: none;
+    border-radius: 8px;
+    align-self: center;
+    margin-top: -10px;
+}
+
+.doctor-info {
+    margin-bottom: 10px;
+}
+
+.ld{
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.c1{
+   font-size: 25px;
+   font-weight: bolder;
+   font-family: 'Prompt';
+}
+
+.t1{
+    font-size: 40px;
+    padding: auto;
+}
+.t2{
+    font-size: 20px;
+}
+.t3{
+    font-size: 20px;
+    font-weight:var(#007bff);
+}
+.t4{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.t5{
+    font-size: 40px;
+    padding: auto;
+}
+.t6{
+    font-size: 20px;
+}
+.t7{
+    font-size: 20px;
+    font-weight:var(#007bff);
+}
+.t8{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.s1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+
+.s2{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+.s3{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+.s4{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+.s5{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+.s6{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+.s7{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+.s8{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    background-color: rgb(220, 248, 251);
+    background-size: cover; 
+    padding: 30px 5px; 
+    margin: 20px;
+    font-family: 'Mukta';
+}
+
+footer {
+    background-color: #f90808;
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: right;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+.ld{
+    font-family: 'Space Grotesk';
+    font-weight: bolder;
+    font-size: 65px;
+    font-style: inherit;
+}
