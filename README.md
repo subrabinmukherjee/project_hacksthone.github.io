@@ -6,7 +6,7 @@
 <br />
 
 # About the project:
-[Screenshot(UI based)- gif/short vd]
+<img src="https://github.com/subrabinmukherjee/project_hacksthone.github.io/assets/142428805/dfc8edc5-db98-4536-b50c-ffbde5358b4e" alt="logo" width="3840" height="800">
 
 
 
