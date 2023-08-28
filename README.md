@@ -13,9 +13,6 @@ https://github.com/subrabinmukherjee/project_hacksthone.github.io/assets/1424288
 # About the project:
 <img src="https://github.com/subrabinmukherjee/project_hacksthone.github.io/assets/142428805/dfc8edc5-db98-4536-b50c-ffbde5358b4e" alt="logo" width="3840" height="650">
 
-<video
-  src="https://github.com/subrabinmukherjee/project_hacksthone.github.io/assets/142428805/37e12355-c48a-4675-8eb3-f4d2cbf1f091"
- poster="https://github.com/subrabinmukherjee/project_hacksthone.github.io/assets/142428805/dfc8edc5-db98-4536-b50c-ffbde5358b4e" ></video>
 
 ## Inspiration:
 - Medico Fortify was born out of the personal experience of our team leader, Subrabin Mukherjee. He faced the daunting challenge of finding the best doctors in Kolkata for his medical needs. 
